@@ -1,5 +1,3 @@
-### Welcome to wisdom's git
-
 <div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&text=Welcome%20to%20Jihye's%20GitHub%20&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
